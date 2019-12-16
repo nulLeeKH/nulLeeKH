@@ -83,7 +83,7 @@
 
 ## 오픈소스 기여 및 프로젝트 이력
 
-<img src="https://github.com/nulLeeKH/ph-calculator/blob/master/src/ph-calculator-gui/mac/gui/image/icon.png?raw=true" width="90" height="90"/>
+<img src="https://github.com/nulLeeKH/ph-calculator/blob/master/src/ph-calculator-gui/mac/gui/image/icon.png?raw=true" width="150" height="150"/>
 
 ### ABCD (Acid Base Calculation Wizard)
 - 소개 : 산/염기 중화적정반응의 결과를 계산하는 소프트웨어
