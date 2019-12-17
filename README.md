@@ -26,7 +26,7 @@
 
 <img src="https://avatars0.githubusercontent.com/u/58934908?s=200&v=4" width="150" height="150"/>
 
-### Dropper Lab. (2019 ~ )
+### [Dropper Lab.](https://dropper.tech) (2019 ~ )
 
 ## 학력
 
