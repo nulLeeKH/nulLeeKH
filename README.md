@@ -22,8 +22,11 @@
 
 ## 단체경력
 
-- 대구대학교 정보보호영재교육원 고등전문B (2019)
-- Dropper Lab. (2019 ~ )
+### 대구대학교 정보보호영재교육원 고등전문B (2019)
+
+<img src="https://avatars0.githubusercontent.com/u/58934908?s=200&v=4" width="150" height="150"/>
+
+### Dropper Lab. (2019 ~ )
 
 ## 학력
 
