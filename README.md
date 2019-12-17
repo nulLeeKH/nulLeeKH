@@ -28,9 +28,13 @@
 
 ### [Dropper Lab.](https://dropper.tech) (2019 ~ )
 
+<img src="https://avatars0.githubusercontent.com/u/58578629?s=200&v=4" width="150" height="150"/>
+
+### Easyprize (2019 ~ )
+
 ## 학력
 
-- 학성고등학교 재학(2018 ~ )
+### 학성고등학교 재학(2018 ~ )
 
 ## 사용 기술
 
