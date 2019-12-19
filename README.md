@@ -27,7 +27,7 @@
 
 ### <img src="https://avatars0.githubusercontent.com/u/58934908?s=200&v=4" width="50" height="50"/> [Dropper Lab.](https://dropper.tech) (2019 ~ )
 
-### <img src="https://avatars0.githubusercontent.com/u/58578629?s=200&v=4" width="50" height="50"/> Easyprize (2019 ~ )
+### <img src="https://avatars0.githubusercontent.com/u/58578629?s=200&v=4" width="50" height="50"/> [Easyprize](https://github.com/easy-prize) (2019 ~ )
 
 ## 학력
 
@@ -79,7 +79,7 @@
 - Android/IOS
 	- React Native
 	- Kotlin
-	- Swift	
+	- Swift
 - Clean Architecture
 - Development methodology
 	- Agile
@@ -106,14 +106,13 @@
 
 ## 수상 경력
 
-
 #### 과학전람회 (2019)
 
-- 제 22회 울산 과학 전람회 - 특상(1위)
+- 제22회 울산 과학 전람회 - 특상(1위)
 	- 소개 : 울산광역시 교육청 울산과학관이 개최한 초/중/고 학생의 과학 탐구와 연구 활동을 장려하기 위하 전람회
 	- 수상 기관 : 울산광역시 교육감 노옥희
 	- 관련 저장소 : [ph-calculator](https://github.com/nulLeeKH/ph-calculator)
-- 제 65회 전국과학전람회 - 대통령상(1위)
+- 제65회 전국과학전람회 - 대통령상(1위)
 	- 소개 : 과학기술정보통신부 국립중앙과학관이 개최한 전국 17개 시/도 초/중/고 학생과 교육/일반인들의 과학 탐구와 연구 활동을 장려하기 위한 전람회
 	- 수상 기관 : 대한민국 대통령 문재인
 	- 관련 저장소 : [ph-calculator](https://github.com/nulLeeKH/ph-calculator)
@@ -129,6 +128,19 @@
 	- 수상 기관 (준우승) : 성균관대학교 공과대학 학장 이준영
 	- 수상 기관 (The Fastest Car Award) : 성균관대학교 공과교육혁신센터장 이준영
 	- 관련 저장소 : [arduino-autonomous-car](https://github.com/nulLeeKH/arduino-autonomous-car)
+
+#### 국회의원 표창 (2015)
+- 국회의원 표창
+	- 소개 : 학생을 여러 면에서 종합적으로 평가 및 선발하여 수상한 표창장
+	- 수상 기관 : 대한민국 국회의원 유재중
+
+#### 과학의 날 (2014)
+
+- 제47회 과학의 날 미래창조과학부 장관상
+	- 소개 : 1년간 과학 관련 활동 성적을 기준으로 수상되는 상
+	- 수상 기관 : 미래창조과학부 장관 최문기
+
+##### 본 문서에는 분량 관계로 우수 수상 경력만 작성되었으며, 기타 수상 경력은 [이 문서](https://github.com/nulLeeKH/RESUME/blob/master/AWARD.md)에서 확인 가능합니다.
 
 ---
 
