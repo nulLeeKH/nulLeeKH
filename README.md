@@ -123,7 +123,7 @@
 	- 소개 : 울산과학기술제전의 부대행사로 열린 자작 자율주행자동차 경진대회
 	- 수상 기관 : 울산광역시 교육감 노옥희
 	- 관련 저장소 : [arduino-autonomous-car](https://github.com/nulLeeKH/arduino-autonomous-car)
-- 제3회 판교 자율주행모터쇼 고등학생 자율주행자동차 경진대회 - 준우숭(2위)/The Fastest Car Award(1위)
+- 제3회 판교 자율주행모터쇼 고등학생 자작자율주행자동차 경진대회 - 준우숭(2위)/The Fastest Car Award(1위)
 	- 소개 : 제3회 판교 자율주행모터쇼의 부대행사로 열린 자작 자율주행자동차 경진대회
 	- 수상 기관 (준우승) : 성균관대학교 공과대학 학장 이준영
 	- 수상 기관 (The Fastest Car Award) : 성균관대학교 공과교육혁신센터장 이준영
