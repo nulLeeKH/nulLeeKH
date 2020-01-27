@@ -129,6 +129,10 @@
 	- 수상 기관 (The Fastest Car Award) : 성균관대학교 공과교육혁신센터장 이준영
 	- 관련 저장소 : [arduino-autonomous-car](https://github.com/nulLeeKH/arduino-autonomous-car)
 
+#### 제19회 앱잼 (2019)
+
+- 생활개발 부문 - 최우수상(1위)
+
 #### 국회의원 표창 (2015)
 - 국회의원 표창
 	- 소개 : 학생을 여러 면에서 종합적으로 평가 및 선발하여 수상한 표창장
