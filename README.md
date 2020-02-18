@@ -23,7 +23,7 @@
 
 ## 단체경력
 
-### [대구대학교 정보보호영재교육원](https://dusecgifted.github.io) 고등전문B (2019~2020)
+### <img src="https://avatars2.githubusercontent.com/u/58201427?s=200&v=4" width="50" height="50"/>[대구대학교 정보보호영재교육원](https://dusecgifted.github.io) 고등전문B (2019~2020)
 
 ### <img src="https://avatars0.githubusercontent.com/u/58934908?s=200&v=4" width="50" height="50"/> [Dropper Lab.](https://dropper.tech) (2019 ~ )
 
