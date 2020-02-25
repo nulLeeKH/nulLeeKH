@@ -87,7 +87,7 @@
 
 ## 오픈소스 기여 및 프로젝트 이력
 
-<img src="https://github.com/nulLeeKH/ph-calculator/blob/master/src/ph-calculator-gui/mac/gui/image/icon.png?raw=true" width="150" height="150"/>
+<img src="https://github.com/acid-base-calculation-wizard/ph-calculator/blob/master/src/ph-calculator-gui/mac/gui/image/icon.png?raw=true" width="150" height="150"/>
 
 ### ABCD (Acid Base Calculation Wizard)
 - 소개 : 산/염기 중화적정반응의 결과를 계산하는 소프트웨어
@@ -111,11 +111,11 @@
 - 제22회 울산 과학 전람회 - 특상(1위)
 	- 소개 : 울산광역시 교육청 울산과학관이 개최한 초/중/고 학생의 과학 탐구와 연구 활동을 장려하기 위하 전람회
 	- 수상 기관 : 울산광역시 교육감 노옥희
-	- 관련 저장소 : [ph-calculator](https://github.com/nulLeeKH/ph-calculator)
+	- 관련 저장소 : [ph-calculator](https://github.com/acid-base-calculation-wizard/ph-calculator)
 - 제65회 전국과학전람회 - 대통령상(1위)
 	- 소개 : 과학기술정보통신부 국립중앙과학관이 개최한 전국 17개 시/도 초/중/고 학생과 교원/일반인들의 과학 탐구와 연구 활동을 장려하기 위한 전람회
 	- 수상 기관 : 대한민국 대통령 문재인
-	- 관련 저장소 : [ph-calculator](https://github.com/nulLeeKH/ph-calculator)
+	- 관련 저장소 : [ph-calculator](https://github.com/acid-base-calculation-wizard/ph-calculator)
 
 #### 자율주행자동차 경진대회 (2019)
 
