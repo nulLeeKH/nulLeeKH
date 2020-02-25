@@ -31,7 +31,7 @@
 
 ## 학력
 
-### <img src="http://haksung.hs.kr/hosts/hi01/S0000000405/logo.png" width="50"/> 학성고등학교 재학(2018 ~ )
+### <img src="http://www.haksung.hs.kr/hosts/haksung-h/M01/logo.png" width="50" style="background-color: #333333"/> 학성고등학교 재학(2018 ~ )
 
 ## 사용 기술
 
