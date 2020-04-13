@@ -87,6 +87,14 @@
 
 ## 오픈소스 기여 및 프로젝트 이력
 
+<img src="https://avatars3.githubusercontent.com/u/12589084?s=200&v=4" width="150" height="150"/>
+
+### Notepad++
+- 소개 : 오픈소스로 개발된 무료 소스코드 에디터
+- 기간 : 2019.02
+- 역할 : 소프트웨어의 한글 번역 개선 프로젝트 진행
+- 관련 기술 : Korean, English, Communication
+
 <img src="https://avatars0.githubusercontent.com/u/59673308?s=200&v=4" width="150" height="150"/>
 
 ### ABCD (Acid Base Calculation Wizard)
