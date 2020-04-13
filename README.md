@@ -95,7 +95,7 @@
 - 역할 : 수식 연산 알고리즘 고안 및 구현, GUI 구성 등 개발 전반
 - 관련 기술 : C, Python, NumPy, PyQt
 
-<img src="https://github.com/66-day/66-day/blob/master/66-day/Assets.xcassets/AppIcon.appiconset/AppIconImage_Mac-512pt@2x.png?raw=true" width="150" height="150"/>
+<img src="https://avatars2.githubusercontent.com/u/62950482?s=200&v=4" width="150" height="150"/>
 
 ### 66-day
 - 소개 : macOS용 66일 습관 달력 앱
