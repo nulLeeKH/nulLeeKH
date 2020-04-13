@@ -103,6 +103,14 @@
 - 역할 : 기획 및 개발 등 전 과정
 - 관련 기술 : Swift, macOS
 
+<img src="https://avatars0.githubusercontent.com/u/58934908?s=200&v=4" width="150" height="150"/>
+
+### Dropper API
+- 소개 : 다양한 데이터를 제공하는 API 서비스
+- 기간 : 2020.02 ~
+- 역할 : 데이터 크롤러 및 서버 관리 유틸리티 개발
+- 관련 기술 : Python
+
 ### 기타 개인 프로젝트
 
 - [korean-national-id-checksum-calculator-library](https://github.com/nulLeeKH/korean-national-id-checksum-calculator-library)(2019)
