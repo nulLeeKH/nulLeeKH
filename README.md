@@ -95,6 +95,14 @@
 - 역할 : 수식 연산 알고리즘 고안 및 구현, GUI 구성 등 개발 전반
 - 관련 기술 : C, Python, NumPy, PyQt
 
+<img src="https://github.com/66-day/66-day/blob/master/66-day/Assets.xcassets/AppIcon.appiconset/AppIconImage_Mac-512pt@2x.png?raw=true" width="150" height="150"/>
+
+### 66-day
+- 소개 : macOS용 66일 습관 달력 앱
+- 기간 : 2020.03 ~
+- 역할 : 기획 및 개발 등 전 과정
+- 관련 기술 : Swift, macOS
+
 ### 기타 개인 프로젝트
 
 - [korean-national-id-checksum-calculator-library](https://github.com/nulLeeKH/korean-national-id-checksum-calculator-library)(2019)
