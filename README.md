@@ -12,14 +12,33 @@
 
 다양한 분야에 대한 **폭넓은 경험**을 바탕으로 **세상에 없던 것들**을 만들어내는 개발자, 이경하입니다.
 
-- 취미 : 대중교통 여행, 걷기, 디버깅, 독서
-- Email : i_am@nulleekh.com
-- Github : https://github.com/nulLeeKH
+```python
+from nulLeeKH import about_me, generate_goal,achieve_goal, check_result
+
+if __name__ == '__main__':
+	result = 'You can do anything!'
+
+	while True:
+		goal = generate_goal(about_me('Kyung-ha Lee'))
+		hint = []
+
+		while check_result(goal, result) != 'pass' :
+		    hint.append(result)	
+
+		    try:
+		        result = achieve_goal(goal, hint)
+		    except Exception as ex:
+		        hint.append(ex)
+```
 
 ```
 실패의 가치를 믿고,
 언제 어디서나 끊임없이 도전하며 배우고 있습니다.
 ```
+
+- 취미 : 대중교통 여행, 걷기, 디버깅, 독서
+- Email : i_am@nulleekh.com
+- Github : https://github.com/nulLeeKH
 
 ## 단체경력
 
