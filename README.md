@@ -16,7 +16,7 @@
 from nulLeeKH import about_me, generate_goal,achieve_goal, check_result
 
 if __name__ == '__main__':
-	result = 'You can do anything!'
+	result = 'I can do anything!'
 
 	while True:
 		goal = generate_goal(about_me('Kyung-ha Lee'))
