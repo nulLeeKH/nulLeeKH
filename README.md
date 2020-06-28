@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
 ## 단체경력
 
-### <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width="50" height="50"/>[BoB](https://www.kitribob.kr) 9기 보안제품개발 (2020 ~ )
+### <img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t1.0-9/11101957_811471835604960_775913396782199560_n.jpg?_nc_eui2=AeGwmRSqYY1So8zs7hEzWSCxAv9cbYN3d4EC_1xtg3d3gW_AtWWF3_FBA3QbRS6N0oR4jVmjjmKzNbWvtQz_Vqfh&_nc_ohc=_mmccPSLje4AX82wTqD&_nc_ht=scontent-gmp1-1.xx&oh=68d9e98ba7b25a17b1e863c60c52e9f8&oe=5F1D7F5F" width="50" height="50"/>[BoB](https://www.kitribob.kr) 9기 보안제품개발 (2020 ~ )
 
 ### <img src="https://avatars2.githubusercontent.com/u/58201427?s=200&v=4" width="50" height="50"/>[대구대학교 정보보호영재교육원](https://dusecgifted.github.io) 고등전문B (2019 ~ 2020)
 
