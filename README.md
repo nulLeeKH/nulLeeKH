@@ -36,7 +36,7 @@ if __name__ == '__main__':
 언제 어디서나 끊임없이 도전하며 배우고 있습니다.
 ```
 
-- 취미 : 대중교통 여행, 걷기, 디버깅, 독서
+- 취미 : 양궁(리커브), 대중교통 여행, 걷기, 디버깅, 독서
 - Email : i_am@nulleekh.com
 - Github : https://github.com/nulLeeKH
 
