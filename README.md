@@ -1,7 +1,7 @@
 [![HitCount](http://hits.dwyl.io/nulLeeKH/RESUME.svg)](http://hits.dwyl.io/nulLeeKH/RESUME)
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/RESUME.svg)
 
-# 이력서
+# nulLeeKH
 
 ## 소개
 
