@@ -1,6 +1,5 @@
 [![HitCount](http://hits.dwyl.io/nulLeeKH/RESUME.svg)](http://hits.dwyl.io/nulLeeKH/RESUME)
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/RESUME.svg)
-![status](https://img.shields.io/badge/status-offer_welcome%20-brightgreen.svg)
 
 # 이력서
 
