@@ -4,7 +4,6 @@
 # 이력서
 
 ## 소개
-![프로필 이미지](https://avatars3.githubusercontent.com/u/41930106?s=460&v=4)
 
 - 이름 : **이경하**
 
