@@ -10,13 +10,13 @@
 다양한 분야에 대한 **폭넓은 경험**을 바탕으로 **세상에 없던 것들**을 만들어내는 개발자, 이경하입니다.
 
 ```python
-from nulLeeKH import about_me, find_goal, achieve_goal, check_result
+from nulLeeKH import about_me, get_goal, achieve_goal, check_result
 
 if __name__ == '__main__':
 	result = 'I can do anything!'
 
 	while True:
-		goal = find_goal(about_me('Kyung-ha Lee'))
+		goal = get_goal(about_me('Kyung-ha Lee'))
 		hint = []
 
 		while check_result(goal, result) != 'pass' :
