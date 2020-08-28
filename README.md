@@ -39,15 +39,15 @@ if __name__ == '__main__':
 
 ## 단체경력
 
-### <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width="50" height="50"/>[KITRI BoB](https://www.kitribob.kr) 9기 보안제품개발 (2020 ~ )
+### <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width="50" height="50"/>[KITRI BoB](https://www.kitribob.kr) 9기 보안제품개발트랙 교육생 (2020 ~ )
 
-### <img src="https://avatars2.githubusercontent.com/u/58201427?s=200&v=4" width="50" height="50"/>[대구대학교 정보보호영재교육원](https://dusecgifted.github.io) 고등전문B (2019 ~ 2020)
+### <img src="https://avatars2.githubusercontent.com/u/58201427?s=200&v=4" width="50" height="50"/>[대구대학교 정보보호영재교육원](https://dusecgifted.github.io) 고등전문B 교육생 (2019 ~ 2020)
 
-### <img src="https://avatars0.githubusercontent.com/u/58934908?s=200&v=4" width="50" height="50"/> [Dropper Lab.](https://dropper.tech) (2019 ~ )
+### <img src="https://avatars0.githubusercontent.com/u/58934908?s=200&v=4" width="50" height="50"/> [Dropper Lab.](https://dropper.tech) 팀원 (2019 ~ )
 
 ## 학력
 
-### <img src="http://www.haksung.hs.kr/hosts/haksung-h/M01/logo.png" width="50" style="background-color: #333333"/> [학성고등학교](http://haksung.hs.kr) 재학(2018 ~ )
+### <img src="http://www.haksung.hs.kr/hosts/haksung-h/M01/logo.png" width="50" style="background-color: #333333"/> [학성고등학교](http://haksung.hs.kr) 재학 (2018 ~ )
 
 ## 사용 기술
 
@@ -69,7 +69,7 @@ if __name__ == '__main__':
 
 ### Web
 
-**정적 웹 페이지를 디자인**할 수 있는 스킬을 가지고 있습니다.
+**정적 웹 페이지를 퍼블리싱**할 수 있는 스킬을 가지고 있습니다.
 
 - HTML/CSS/JS
 	- Bootstrap
@@ -92,6 +92,8 @@ if __name__ == '__main__':
 	- Node.js
 	- Celery
 	- Docker
+- Web
+	- D3.js
 - Android/IOS
 	- React Native
 	- Kotlin
@@ -138,7 +140,7 @@ if __name__ == '__main__':
 ### 기타 개인 프로젝트
 
 - [korean-national-id-checksum-calculator-library](https://github.com/nulLeeKH/korean-national-id-checksum-calculator-library)(2019)
-	- 소개 : 한국 주민등록번호 체크섬 검증 관련 라이브러리
+	- 소개 : 대한민국 주민등록번호 체크섬 계산 라이브러리
 - [arduino-optical-dust-sensor-library](https://github.com/nulLeeKH/arduino-optical-dust-sensor-library)(2019)
 	- 소개 : 아두이노를 이용해 광학식 먼지 농도 센서를 작동시키기 위한 라이브러리
 - [arduino-pid-control-library](https://github.com/nulLeeKH/arduino-pid-control-library)(2019)
@@ -191,14 +193,14 @@ if __name__ == '__main__':
 
 ## 기타 경력
 
-### 강연활동
+### 강연 활동
 
 #### 2019년 5월, 소프트웨어에 물들다 강연
 
 - 울산 남목작은도서관
 	- 제목 : 인공신경망과 소프트웨어
 	
-### 봉사활동
+### 봉사 활동
 
 #### 울산환경운동협회 구 웹사이트 데이터 백업 기술지원
 
