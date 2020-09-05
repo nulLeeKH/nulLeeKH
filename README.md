@@ -102,6 +102,8 @@ if __name__ == '__main__':
 - Development methodology
 	- Agile
 	- DevOps
+- IEEE
+	- 802.11
 
 ## 오픈소스 기여 및 프로젝트 이력
 
