@@ -10,6 +10,8 @@
 다양한 분야에 대한 **폭넓은 경험**을 바탕으로 **세상에 없던 것들**을 만들어내는 개발자, 이경하입니다.
 
 ```python
+#!/usr/bin/env lkh
+
 from nulLeeKH import about_me, get_goal, achieve_goal, check_result
 
 if __name__ == '__main__':
