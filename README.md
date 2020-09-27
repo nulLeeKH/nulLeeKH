@@ -129,17 +129,17 @@ if __name__ == '__main__':
 
 <img src="https://avatars2.githubusercontent.com/u/62950482?s=200&v=4" width="150" height="150"/>
 
-### KVE-2018-2449
-- 소개 : SKT/CGV 0teen 기기 강제종료 취약점
-- 기간 : 2018.12
-- 역할 : 로직 버그 발견 및 취약점 확인
-- 관련 기술 : Windows IoT
-
 ### 66-day
 - 소개 : macOS용 66일 습관 달력 앱
 - 기간 : 2020.03 ~
 - 역할 : 기획 및 개발 등 전 과정
 - 관련 기술 : Swift, macOS
+
+### KVE-2018-2449
+- 소개 : SKT/CGV 0teen 기기 강제종료 취약점
+- 기간 : 2018.12
+- 역할 : 로직 버그 발견 및 취약점 확인
+- 관련 기술 : Windows IoT
 
 <img src="https://avatars0.githubusercontent.com/u/58934908?s=200&v=4" width="150" height="150"/>
 
