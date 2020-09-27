@@ -151,6 +151,8 @@ if __name__ == '__main__':
 
 ### 기타 개인 프로젝트
 
+- 교보문고 r-XSS 취약점 제보
+	- 소개 : 교보문고 검색 폼 내부에 존재하였던 r-XSS 취약점
 - [korean-national-id-checksum-calculator-library](https://github.com/nulLeeKH/korean-national-id-checksum-calculator-library)(2019)
 	- 소개 : 대한민국 주민등록번호 체크섬 계산 라이브러리
 - [arduino-optical-dust-sensor-library](https://github.com/nulLeeKH/arduino-optical-dust-sensor-library)(2019)
