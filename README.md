@@ -47,10 +47,6 @@ if __name__ == '__main__':
 
 ### <img src="https://avatars0.githubusercontent.com/u/58934908?s=200&v=4" width="50" height="50"/> [Dropper Lab.](https://dropper.tech) 팀원 (2019 ~ )
 
-## 학력
-
-### <img src="http://www.haksung.hs.kr/hosts/haksung-h/M01/logo.png" width="50" style="background-color: #333333"/> [학성고등학교](http://haksung.hs.kr) 재학 (2018 ~ )
-
 ## 사용 기술
 
 ### Data
