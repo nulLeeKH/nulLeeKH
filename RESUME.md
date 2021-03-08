@@ -43,8 +43,6 @@ if __name__ == '__main__':
 
 ### <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width="50" height="50"/>[KITRI BoB](https://www.kitribob.kr) 9기 보안제품개발트랙 교육생 (2020 ~ )
 
-### <img src="https://avatars0.githubusercontent.com/u/58934908?s=200&v=4" width="50" height="50"/> [Dropper Lab.](https://dropper.tech) 팀원 (2019 ~ )
-
 ## 사용 기술
 
 ### Data
