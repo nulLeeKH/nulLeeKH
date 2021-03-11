@@ -43,7 +43,7 @@ if __name__ == '__main__':
 
 ### <img src="http://korea.ac.kr/mbshome/mbs/university/images/img/img_1_5_1_1_1.jpg" width="50" height="50"/>[Korea Univ.](https://korea.ac.kr) 정보대학 컴퓨터학과 학부생 (2021 ~ )
 
-### <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width="50" height="50"/>[KITRI BoB](https://www.kitribob.kr) 9기 보안제품개발트랙 교육생 (2020 ~ )
+### <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width="50" height="50"/>[KITRI BoB](https://www.kitribob.kr) 9기 보안제품개발트랙 교육생 (2020 ~ 2021)
 
 ## 사용 기술
 
