@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.io/nulLeeKH/RESUME.svg)](http://hits.dwyl.io/nulLeeKH/RESUME)
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/RESUME.svg)
 
 # nulLeeKH
@@ -39,7 +38,7 @@ if __name__ == '__main__':
 - Email : i_am@nulleekh.com
 - Github : https://github.com/nulLeeKH
 
-## 단체경력
+## 경력
 
 ### <img src="http://korea.ac.kr/mbshome/mbs/university/images/img/img_1_5_1_1_1.jpg" width="50" height="50"/>[Korea Univ.](https://korea.ac.kr) 정보대학 컴퓨터학과 학부생 (2021 ~ )
 
