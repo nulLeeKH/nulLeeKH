@@ -1,6 +1,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/RESUME.svg)
 
 # nulLeeKH
+I believe in the value of failure, constantly challenging and learning anytime, anywhere. 
 
 ## 소개
 
