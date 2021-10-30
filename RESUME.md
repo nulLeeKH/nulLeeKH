@@ -25,13 +25,13 @@ if __name__ == '__main__':
 		goal = get_goal(about_me('Kyung-ha Lee'))
 		hint = []
 
-		while check_result(goal, result) != 'pass' :
+		while not check_result(goal, result) :
 		    hint.append(result)	
 
 		    try:
 		        result = achieve_goal(goal, hint)
 		    except Exception as ex:
-		        hint.append(ex)
+		        result = ex
 ```
 
 ```
@@ -39,15 +39,23 @@ if __name__ == '__main__':
 언제 어디서나 끊임없이 도전하며 배우고 있습니다.
 ```
 
-- 취미 : 양궁(리커브), 대중교통 여행, 걷기, 디버깅, 독서
+- Hobby : 🏹, 📚
 - Email : i_am@nulleekh.com
 - Github : https://github.com/nulLeeKH
 
 ## 경력
 
+### [edutosel.co.ltd.](http://www.tosel.org/) 개발팀 업무 총괄 담당 (2021.05 ~ 2021.10)
+
+### [bettercode Co., Ltd.](https://www.bettercode.kr/) QR 및 개발자 (2021.04 ~ 2021.08)
+
+### [Team Crescendo](https://team-crescendo.me/) Xsi 챗봇 개발자 (2020.10 ~ 2021.10)
+
 ### <img src="http://korea.ac.kr/mbshome/mbs/university/images/img/img_1_5_1_1_1.jpg" width="50" height="50"/>[Korea Univ.](https://korea.ac.kr) 정보대학 컴퓨터학과 학부생 (2021 ~ )
 
-### <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width="50" height="50"/>[KITRI BoB](https://www.kitribob.kr) 9기 보안제품개발트랙 교육생 (2020 ~ 2021)
+### <img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t31.18172-8/11537624_131761307155762_3925225302984064110_o.png?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gv1e93HtRYUAX-lbm5l&_nc_ht=scontent-gmp1-1.xx&oh=717ef6e7fd72df35b348b465d2169ba3&oe=61A30D90" width="50" height="50"/>[KITRI BoB7대 총동문회](https://www.facebook.com/bobalumni/) 부회장 (2021.05 ~ )
+
+### <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width="50" height="50"/>[KITRI BoB](https://www.kitribob.kr) 9기 보안제품개발트랙 교육생 (2020.07 ~ 2021.05)
 
 ## 사용 기술
 
@@ -67,31 +75,44 @@ if __name__ == '__main__':
 - C++
 	- Caffe
 
+### Server
+
+**서버를 전반적으로 구축하고 관리**할 수 있는 스킬을 가지고 있습니다.
+
+- Javascript
+	- Node.js
+	- Socket.io
+- Python
+	- Django
+	- Flask
+	- Celery
+- C++
+	- TCP/UDP Socket
+	- CGSF
+- Jenkins
+- Docker
+
 ### Web
 
 **정적 웹 페이지를 퍼블리싱**할 수 있는 스킬을 가지고 있습니다.
 
 - HTML/CSS/JS
 	- Bootstrap
+	- React.js
 	- Vue.js
 	- Svelte
 
 ### Process
 
 - Monitoring - Google Analytics
-- Communication - Slack, JANDI
-- Issue - Github, Trello, Notion
+- Communication - Slack, TeamCity, Dooray, JANDI
+- Issue - Github, YouTrack, Jira, Trello, Notion
 - Version - Git
 
 ### TODO
 
-**더 나은 개발자**가 되기 위해 지금 아래의 것들에 도전하여 실패를 통해 배우고 있습니다.
+**더 나은 사람**이 되기 위해 지금 아래의 것들에 도전하여 실패를 통해 배우고 있습니다.
 
-- Server
-	- Django
-	- Node.js
-	- Celery
-	- Docker
 - Web
 	- D3.js
 - Android/IOS
