@@ -130,6 +130,14 @@ if __name__ == '__main__':
 
 ## 오픈소스 기여 및 프로젝트 이력
 
+<img src="https://image.rocketpunch.com/images/2020/12/22/bob-0x10_logo_1_blue_1608602353.png?s=136x88&t=cover" width="150" height="150"/>
+
+### bob-map
+- 소개 :  802.11 패킷의 수신 신호 강도(RSSI)를 이용한 실내 측위 기술을 마련하여 정상적으로 작동 중인 디바이스가 패킷을 생성하도록 유도하고, 이를 분석하여 해당 디바이스의 위치를 추적할 수 있는 기반 기술을 마련하고, 프로토타입을 개발하였음
+- 기간 : 2020.06 ~ 2020.12
+- 역할 : PM, DB 및 서버 관리, API 및 연산 엔진 개발
+- 관련 기술 : MariaDB, Python, Flask, Numpy, C++, 802.11
+
 <img src="https://avatars3.githubusercontent.com/u/12589084?s=200&v=4" width="150" height="150"/>
 
 ### Notepad++
