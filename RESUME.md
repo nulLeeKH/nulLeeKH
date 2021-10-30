@@ -47,9 +47,9 @@ if __name__ == '__main__':
 
 ### [edutosel.co.ltd.](http://www.tosel.org/) 개발팀 업무 총괄 담당 (2021.05 ~ 2021.10)
 
-### [bettercode Co., Ltd.](https://www.bettercode.kr/) QR 및 개발자 (2021.04 ~ 2021.08)
+### <img src="https://www.bettercode.kr/assets/favicon.ico" width="50" height="50"/>[bettercode Co., Ltd.](https://www.bettercode.kr/) QR 및 개발자 (2021.04 ~ 2021.08)
 
-### [Team Crescendo](https://team-crescendo.me/) Xsi 챗봇 개발자 (2020.10 ~ 2021.10)
+### <img src="https://team-crescendo.me/wp-content/uploads/2021/07/%EC%9E%90%EC%82%B0-1@2x.png" width="50" height="50"/>[Team Crescendo](https://team-crescendo.me/) Xsi 챗봇 개발자 (2020.10 ~ 2021.10)
 
 ### <img src="http://korea.ac.kr/mbshome/mbs/university/images/img/img_1_5_1_1_1.jpg" width="50" height="50"/>[Korea Univ.](https://korea.ac.kr) 정보대학 컴퓨터학과 학부생 (2021 ~ )
 
