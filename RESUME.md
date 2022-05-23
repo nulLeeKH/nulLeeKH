@@ -48,23 +48,23 @@ if __name__ == '__main__':
 ### [tenacities](https://landing.toany.app) PM (2022.02 ~ )
 - 인프라 및 서버 개발 및 개발팀 업무 운영
 
-### [zerotwo corp.] 대표이사 (2021.08 ~ )
+### zerotwo corp. 대표이사 (2021.08 ~ )
 - 신세계, 효성 등에 납품하는 소프트웨어 개발 및 운영
 
 ### [edutosel.co.ltd.](http://www.tosel.org/) 개발팀 업무 총괄 담당 (2021.05 ~ 2021.10)
 - 신사업으로 진행중인 영어 교육 플랫폼 개발 및 프로젝트 팀 운영
 
-### <img src="https://www.bettercode.kr/assets/favicon.ico" width="50" height="50"/>[bettercode Co., Ltd.](https://www.bettercode.kr/) QR 관련 프로젝트 개발자 (2021.04 ~ 2021.08)
+### [bettercode Co., Ltd.](https://www.bettercode.kr/) QR 관련 프로젝트 개발자 (2021.04 ~ 2021.08)
 - 아름다운가게, 공뿌 등의 수요업체와 협력하여 소프트웨어 개발 및 유지보수
 
-### <img src="https://team-crescendo.me/wp-content/uploads/2021/07/%EC%9E%90%EC%82%B0-1@2x.png" width="50" height="50"/>[Team Crescendo](https://team-crescendo.me/) Xsi 챗봇 개발자 (2020.10 ~ 2021.10)
+### [Team Crescendo](https://team-crescendo.me/) Xsi 챗봇 개발자 (2020.10 ~ 2021.10)
 - 챗봇 기능 개발 및 유지보수
 
-### <img src="http://korea.ac.kr/mbshome/mbs/university/images/img/img_1_5_1_1_1.jpg" width="50" height="50"/>[Korea Univ.](https://korea.ac.kr) 정보대학 컴퓨터학과 학부생 (2021 ~ )
+### [Korea Univ.](https://korea.ac.kr) 정보대학 컴퓨터학과 학부생 (2021 ~ )
 
-### <img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t31.18172-8/11537624_131761307155762_3925225302984064110_o.png?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gv1e93HtRYUAX-lbm5l&_nc_ht=scontent-gmp1-1.xx&oh=717ef6e7fd72df35b348b465d2169ba3&oe=61A30D90" width="50" height="50"/>[KITRI BoB7대 총동문회](https://www.facebook.com/bobalumni/) 부회장 (2021.05 ~ )
+### [KITRI BoB7대 총동문회](https://www.facebook.com/bobalumni/) 부회장 (2021.05 ~ )
 
-### <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width="50" height="50"/>[KITRI BoB](https://www.kitribob.kr) 9기 보안제품개발트랙 교육생 (2020.07 ~ 2021.05)
+### [KITRI BoB](https://www.kitribob.kr) 9기 보안제품개발트랙 교육생 (2020.07 ~ 2021.05)
 
 ## 오픈소스 기여 및 프로젝트 이력
 
