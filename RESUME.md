@@ -45,88 +45,26 @@ if __name__ == '__main__':
 
 ## 경력
 
-### [edutosel.co.ltd.](http://www.tosel.org/) 개발팀 업무 총괄 담당 (2021.05 ~ 2021.10)
+### [tenacities](https://landing.toany.app) PM (2022.02 ~ )
+- 인프라 및 서버 개발 및 개발팀 업무 운영
 
-### <img src="https://www.bettercode.kr/assets/favicon.ico" width="50" height="50"/>[bettercode Co., Ltd.](https://www.bettercode.kr/) QR 및 개발자 (2021.04 ~ 2021.08)
+### [zerotwo corp.] 대표이사 (2021.08 ~ )
+- 신세계, 효성 등에 납품하는 소프트웨어 개발 및 운영
+
+### [edutosel.co.ltd.](http://www.tosel.org/) 개발팀 업무 총괄 담당 (2021.05 ~ 2021.10)
+- 신사업으로 진행중인 영어 교육 플랫폼 개발 및 프로젝트 팀 운영
+
+### <img src="https://www.bettercode.kr/assets/favicon.ico" width="50" height="50"/>[bettercode Co., Ltd.](https://www.bettercode.kr/) QR 관련 프로젝트 개발자 (2021.04 ~ 2021.08)
+- 아름다운가게, 공뿌 등의 수요업체와 협력하여 소프트웨어 개발 및 유지보수
 
 ### <img src="https://team-crescendo.me/wp-content/uploads/2021/07/%EC%9E%90%EC%82%B0-1@2x.png" width="50" height="50"/>[Team Crescendo](https://team-crescendo.me/) Xsi 챗봇 개발자 (2020.10 ~ 2021.10)
+- 챗봇 기능 개발 및 유지보수
 
 ### <img src="http://korea.ac.kr/mbshome/mbs/university/images/img/img_1_5_1_1_1.jpg" width="50" height="50"/>[Korea Univ.](https://korea.ac.kr) 정보대학 컴퓨터학과 학부생 (2021 ~ )
 
 ### <img src="https://scontent-gmp1-1.xx.fbcdn.net/v/t31.18172-8/11537624_131761307155762_3925225302984064110_o.png?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Gv1e93HtRYUAX-lbm5l&_nc_ht=scontent-gmp1-1.xx&oh=717ef6e7fd72df35b348b465d2169ba3&oe=61A30D90" width="50" height="50"/>[KITRI BoB7대 총동문회](https://www.facebook.com/bobalumni/) 부회장 (2021.05 ~ )
 
 ### <img src="https://www.kitribob.kr/static/front/images/about/bob-logo.png" width="50" height="50"/>[KITRI BoB](https://www.kitribob.kr) 9기 보안제품개발트랙 교육생 (2020.07 ~ 2021.05)
-
-## 사용 기술
-
-### Data
-
-**이미지, 문자열 등 다양한 데이터**를 처리할 수 있는 스킬을 가지고 있습니다.
-
-- Python
-	- NumPy
-	- SciPy
-	- Pandas
-	- Matplotlib
-	- Scikit-Learn
-	- TensorFlow
-	- Keras
-	- PyTorch
-- C++
-	- Caffe
-
-### Server
-
-**서버를 전반적으로 구축하고 관리**할 수 있는 스킬을 가지고 있습니다.
-
-- Javascript
-	- Node.js
-	- Socket.io
-- Python
-	- Django
-	- Flask
-	- Celery
-- C++
-	- TCP/UDP Socket
-	- CGSF
-- Jenkins
-- Docker
-
-### Web
-
-**정적 웹 페이지를 퍼블리싱**할 수 있는 스킬을 가지고 있습니다.
-
-- HTML/CSS/JS
-	- Bootstrap
-	- React.js
-	- Vue.js
-	- Svelte
-
-### Process
-
-- Monitoring - Google Analytics
-- Communication - Slack, TeamCity, Dooray, JANDI
-- Issue - Github, YouTrack, Jira, Trello, Notion
-- Version - Git
-
-### TODO
-
-**더 나은 사람**이 되기 위해 지금 아래의 것들에 도전하여 실패를 통해 배우고 있습니다.
-
-- Web
-	- D3.js
-- Android/IOS
-	- React Native
-	- Kotlin
-	- Swift
-- Clean Architecture
-- Development methodology
-	- Agile
-	- DevOps
-- Development Approach
-	- DDD
-- IEEE
-	- 802.11
 
 ## 오픈소스 기여 및 프로젝트 이력
 
@@ -162,9 +100,13 @@ if __name__ == '__main__':
 - 역할 : 기획 및 개발 등 전 과정
 - 관련 기술 : Swift, macOS
 
+### 교보문고 r-XSS 취약점 제보
+    - 소개 : 교보문고 검색 폼 내부에 존재하였던 r-XSS 취약점
+- 기간 : 2020.03
+
 ### KVE-2018-2449
 - 소개 : SKT/CGV 0teen 기기 강제종료 취약점
-- 기간 : 2018.12
+- 기간 : 2020.12
 - 역할 : 로직 버그 발견 및 취약점 확인
 - 관련 기술 : Windows IoT
 
@@ -175,17 +117,6 @@ if __name__ == '__main__':
 - 기간 : 2020.02 ~
 - 역할 : 데이터 크롤러 및 서버 관리 유틸리티 개발
 - 관련 기술 : Python
-
-### 기타 개인 프로젝트
-
-- 교보문고 r-XSS 취약점 제보
-	- 소개 : 교보문고 검색 폼 내부에 존재하였던 r-XSS 취약점
-- [korean-national-id-checksum-calculator-library](https://github.com/nulLeeKH/korean-national-id-checksum-calculator-library)(2019)
-	- 소개 : 대한민국 주민등록번호 체크섬 계산 라이브러리
-- [arduino-optical-dust-sensor-library](https://github.com/nulLeeKH/arduino-optical-dust-sensor-library)(2019)
-	- 소개 : 아두이노를 이용해 광학식 먼지 농도 센서를 작동시키기 위한 라이브러리
-- [arduino-pid-control-library](https://github.com/nulLeeKH/arduino-pid-control-library)(2019)
-	- 소개 : 아두이노를 이용해 PID 제어를 구현하기 위한 라이브러리
 
 ## 수상 경력
 
@@ -218,8 +149,6 @@ if __name__ == '__main__':
 	- 소개 : APPJAM이란 중소벤처기업부, SK텔레콤, SK플래닛이 공동으로 주최하는 고등학생 앱 및 융합 서비스 개발 경진대회.
 	- 수상 기관 : SK플래닛(주) 대표이사 이한상
 	- 관련 저장소 : [danim](https://github.com/easy-prize/danim)
-
-##### 본 문서에는 분량 관계로 우수 수상 경력만 작성되었으며, 기타 수상 경력은 [이 문서](https://github.com/nulLeeKH/RESUME/blob/master/AWARD.md)에서 확인 가능합니다.
 
 ## 기타 경력
 
