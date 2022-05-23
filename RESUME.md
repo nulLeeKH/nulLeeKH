@@ -1,3 +1,5 @@
+You can also check this RESUME on [github repository](https://github.com/nulLeeKH/nulLeeKH/blob/master/RESUME.md).
+
 <div align=center>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/RESUME.svg)
