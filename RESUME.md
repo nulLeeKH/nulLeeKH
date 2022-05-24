@@ -47,16 +47,16 @@ if __name__ == '__main__':
 
 ## 경력
 
-### [tenacities](https://landing.toany.app) PM (2022.02 ~ )
-- 인프라 및 서버 개발 및 개발팀 업무 운영
+### [Tenacities Corp.](https://landing.toany.app) PM (2022.02 ~ )
+- 인프라 및 서버 개발, 개발팀 운영
 
-### zerotwo corp. 대표이사 (2021.08 ~ )
+### Zerotwo Corp. 대표이사 (2021.08 ~ )
 - 신세계, 효성 등에 납품하는 소프트웨어 개발 및 운영
 
-### [edutosel.co.ltd.](http://www.tosel.org/) 개발팀 업무 총괄 담당 (2021.05 ~ 2021.10)
+### [Edutosel.Co.Ltd.](http://www.tosel.org/) 개발팀 업무 총괄 담당 (2021.05 ~ 2021.10)
 - 신사업으로 진행중인 영어 교육 플랫폼 개발 및 프로젝트 팀 운영
 
-### [bettercode Co., Ltd.](https://www.bettercode.kr/) QR 관련 프로젝트 개발자 (2021.04 ~ 2021.08)
+### [Bettercode Co., Ltd.](https://www.bettercode.kr/) QR 관련 프로젝트 개발자 (2021.04 ~ 2021.08)
 - 아름다운가게, 공뿌 등의 수요업체와 협력하여 소프트웨어 개발 및 유지보수
 
 ### [Team Crescendo](https://team-crescendo.me/) Xsi 챗봇 개발자 (2020.10 ~ 2021.10)
