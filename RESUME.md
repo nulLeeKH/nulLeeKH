@@ -47,6 +47,12 @@ if __name__ == '__main__':
 
 ## 경력
 
+### [META-Z](https://www.meta-z.io) BE Developer (2022.12 ~)
+- 중앙화 NFT 거래소 서버 개발
+
+### [Tablemanager](https://www.tablemanager.io) 매니저 (2022.08 ~ 2022.11)
+- 예약 관리 코어 시스템 유지보수 및 리팩토링
+
 ### [Tenacities Corp.](https://landing.toany.app) PM (2022.02 ~ 2022.06)
 - 인프라 및 서버 개발, 개발팀 운영
 
